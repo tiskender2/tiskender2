@@ -9,7 +9,6 @@
 <a href="https://linkedin.com/in/tolga-iskender" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tolga-iskender" height="20" width="20" /></a>
 🌱 I’m currently learning : <p align="left">
  <img src="https://konpa.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="20" height="20"/>
-</p>
 <!--
 **tiskender2/tiskender2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
