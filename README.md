@@ -13,7 +13,7 @@
  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
  </p>
  <p align="center">
-<p align="left"> <a align="left">🌱 I’m currently learning : </a><a href="https://golang.org/" target="blank"><img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="Golang" height="20" width="20" /></a> </p>
+<p align="left"> <a align="left">🌱 I’m currently learning : </a><a href="https://golang.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> </p>
 <p align="center">
 <a href="https://linkedin.com/in/tolga-iskender" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tolga-iskender" height="20" width="20" /></a>
 </p>
