@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tolga</h1>
-<h3 align="center">A passionate iOS Developer </h3>
+<h3 align="center">A passionate iOS Engineer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiskender2" alt="tiskender2" /> </p>
 
 <p align="left">
